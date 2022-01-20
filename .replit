@@ -1,0 +1,2 @@
+language = "bash"
+run = "javac -d ./bin A4BlackJack.java; java -classpath ./bin A4BlackJack"
